@@ -94,6 +94,12 @@ span {
   font-size: 30px;
 }
 
+.nav-cart {
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
 .panel {
   height: 40px;
   background-color: #222f3d;
